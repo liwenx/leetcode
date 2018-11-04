@@ -11,7 +11,8 @@ package com.liwx.algorithm.medium;
 public class ContainerWithMostWater {
 
     public static void main(String[] args) {
-
+        int[] arr =  {1,8,6,2,5,4,8,3,7};
+        System.out.println(maxArea(arr));
     }
 
     /**
@@ -19,7 +20,7 @@ public class ContainerWithMostWater {
      * @param height
      * @return
      */
-    public int maxArea(int[] height) {
+    public static int maxArea(int[] height) {
         int maxarea = 0;
         int l = 0, r = height.length - 1;
         while (l < r) {
@@ -30,6 +31,6 @@ public class ContainerWithMostWater {
                 r --;
             }
         }
-        return -1;
+        return maxarea;
     }
 }
