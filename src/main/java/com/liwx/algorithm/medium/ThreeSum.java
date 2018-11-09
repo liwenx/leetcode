@@ -1,4 +1,4 @@
-package com.liwx.algorithm.hard;
+package com.liwx.algorithm.medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;
