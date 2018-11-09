@@ -11,5 +11,7 @@
 | 11 | [Palindrome Number](https://leetcode.com/problems/container-with-most-water/) | [Java](src/com/liwx/algorithm/medium/ContainerWithMostWater.java) | Medium |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](src/com/liwx/algorithm/medium/IntegerToRoman.java) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Java](src/com/liwx/algorithm/easy/RomanToInteger.java) | Easy |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](src/com/liwx/algorithm/easy/LongestCommonPrefix.java) | Easy |
+| 14 | [3Sum](https://leetcode.com/problems/3sum/) | [Java](src/com/liwx/algorithm/medium/ThreeSum.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 
