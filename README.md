@@ -17,5 +17,6 @@
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](src/com/liwx/algorithm/medium/LetterCombinationsOfAPhoneNumber.java) | Medium |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Java](src/com/liwx/algorithm/medium/FourSum.java) | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](src/com/liwx/algorithm/medium/RemoveNthNodeFromEndofList.java) | Medium |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](src/com/liwx/algorithm/medium/ValidParentheses.java) | Easy |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 
