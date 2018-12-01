@@ -6,7 +6,7 @@ package com.liwx.algorithm.easy;
  * https://leetcode.com/problems/merge-two-sorted-lists/
  *
  */
-public class ErgeTwoSortedLists {
+public class MergeTwoSortedLists {
 
     public static void main(String[] args) {
 
