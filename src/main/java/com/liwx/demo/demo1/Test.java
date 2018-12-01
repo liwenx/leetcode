@@ -9,5 +9,6 @@ public class Test {
 //        System.out.println(SubClass.value);
 //        System.out.println(SuperClass.value);
         System.out.println(SuperClass.HELLOWORLD);
+        System.out.println("ubuntu commit test");
     }
 }
