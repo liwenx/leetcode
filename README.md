@@ -19,6 +19,7 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](src/com/liwx/algorithm/medium/RemoveNthNodeFromEndofList.java) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](src/com/liwx/algorithm/easy/ValidParentheses.java) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](src/com/liwx/algorithm/easy/MergeTwoSortedLists.java) | Easy |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](src/com/liwx/algorithm/easy/GenerateParentheses.java) | Medium |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](src/com/liwx/algorithm/medium/GenerateParentheses.java) | Medium |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](src/com/liwx/algorithm/medium/SwapNodesInPairs.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 
