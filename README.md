@@ -21,5 +21,6 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](src/com/liwx/algorithm/easy/MergeTwoSortedLists.java) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](src/com/liwx/algorithm/medium/GenerateParentheses.java) | Medium |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](src/com/liwx/algorithm/medium/SwapNodesInPairs.java) | Medium |
+| 26 | [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](src/com/liwx/algorithm/easy/RemoveDuplicatesFromSortedArray.java) | Easy |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 
