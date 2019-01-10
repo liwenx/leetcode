@@ -24,5 +24,5 @@
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Java](src/com/liwx/algorithm/hard/ReverseNodesInKGroup.java) | Hard |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](src/com/liwx/algorithm/easy/RemoveDuplicatesFromSortedArray.java) | Easy |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](src/com/liwx/algorithm/hard/InterleavingString.java) | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](src/com/liwx/algorithm/easy/ReverseLinkedList.java) | Easy |
 
