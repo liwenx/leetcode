@@ -1,5 +1,7 @@
 package com.liwx.algorithm.easy;
 
+import com.liwx.algorithm.util.TreeNode;
+
 /**
  * @author liwenxing
  * @date 2019/3/11 19:03
@@ -39,17 +41,5 @@ public class InvertBinaryTree {
             invertTree2(root.right);
         }
         return root;
-    }
-
-
-    //Definition for a binary tree node.
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
     }
 }

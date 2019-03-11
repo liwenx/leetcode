@@ -27,6 +27,8 @@
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](src/main/java/com/liwx/algorithm/easy/ImplementStrStr.java) | Easy |
 | 29 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Java](src/main/java/com/liwx/algorithm/hard/SubstringWithConcatenationOfAllWords.java) | Hard |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Hard |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/easy/MaximumDepthOfBinaryTree.java) | Hard |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](src/main/java/com/liwx/algorithm/easy/ReverseLinkedList.java) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/easy/InvertBinaryTree.java) | Easy |
 
