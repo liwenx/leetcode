@@ -12,5 +12,7 @@ public class Test4 {
         BigDecimal bg = new BigDecimal(-0.0000001);
         double f1 = bg.setScale(2, BigDecimal.ROUND_HALF_UP).doubleValue();
         System.out.println(f1);
+
+        System.out.println("merge test 4");
     }
 }
