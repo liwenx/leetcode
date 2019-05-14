@@ -15,6 +15,7 @@ public class MiUbuntuTest {
          */
         System.out.println("merge test 1");
         System.out.println("merge test 2");
+        System.out.println("merge test 3");
     }
 }
 
