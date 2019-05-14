@@ -10,6 +10,10 @@ public class MiUbuntuTest {
         System.out.println("The second push by mi ubuntu.");
         System.out.println(" merge test");
         System.out.println(" merge test2");
+        /**
+         * merge test
+         */
+        System.out.println("merge test 1");
     }
 }
 
