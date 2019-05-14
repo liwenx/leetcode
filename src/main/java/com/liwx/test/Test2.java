@@ -16,6 +16,8 @@ public class Test2 {
 
         double value = b1.divide(b2, 2, BigDecimal.ROUND_HALF_EVEN).doubleValue();
         System.out.println(value);
+
+        System.out.println("merge test 2");
     }
 
 }
