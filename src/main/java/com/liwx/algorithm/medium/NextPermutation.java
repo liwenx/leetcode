@@ -12,6 +12,7 @@ public class NextPermutation {
         int[] arr = {1,2,9,10,6,5,4,3};
         nextPermutation(arr);
         System.out.println(arr);
+
     }
 
     public static void nextPermutation(int[] nums) {
