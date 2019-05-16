@@ -26,6 +26,7 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](src/main/java/com/liwx/algorithm/easy/RemoveElement.java) | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](src/main/java/com/liwx/algorithm/easy/ImplementStrStr.java) | Easy |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Java](src/main/java/com/liwx/algorithm/hard/SubstringWithConcatenationOfAllWords.java) | Hard |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](src/main/java/com/liwx/algorithm/medium/NextPermutation.java) | Medium |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](src/main/java/com/liwx/algorithm/medium/SearchInRotatedSortedArray.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Hard |
