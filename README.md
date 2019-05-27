@@ -15,7 +15,7 @@
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Java](src/main/java/com/liwx/algorithm/medium/ThreeSum.java) | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](src/main/java/com/liwx/algorithm/medium/ThreeSumClosest.java) | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](src/main/java/com/liwx/algorithm/medium/LetterCombinationsOfAPhoneNumber.java) | Medium |
-| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Java](src/com/liwx/algorithm/medium/FourSum.java) | Medium |
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Java](src/main/java/com/liwx/algorithm/medium/FourSum.java) | Medium |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](src/main/java/com/liwx/algorithm/medium/RemoveNthNodeFromEndofList.java) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](src/main/java/com/liwx/algorithm/easy/ValidParentheses.java) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](src/main/java/com/liwx/algorithm/easy/MergeTwoSortedLists.java) | Easy |
