@@ -28,7 +28,8 @@
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Java](src/main/java/com/liwx/algorithm/hard/SubstringWithConcatenationOfAllWords.java) | Hard |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](src/main/java/com/liwx/algorithm/medium/NextPermutation.java) | Medium |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](src/main/java/com/liwx/algorithm/medium/SearchInRotatedSortedArray.java) | Medium |
-| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](src/main/java/com/liwx/algorithm/medium/FindFirstAndLastPositionOfElementInSortedArraygiu.java) | Medium |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](src/main/java/com/liwx/algorithm/medium/FindFirstAndLastPositionOfElementInSortedArray.java) | Medium |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](src/main/java/com/liwx/algorithm/easy/SearchInsertPosition.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Hard |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/easy/MaximumDepthOfBinaryTree.java) | Hard |
