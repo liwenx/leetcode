@@ -25,5 +25,7 @@ public class Test3 {
         integerList.add(2);
         integerList.add(3);
         System.out.println(integerList.stream().map(i -> Integer.toString(i)).collect(Collectors.joining("/")));
+
+        System.out.println("merge test 3");
     }
 }
