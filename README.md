@@ -30,6 +30,7 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](src/main/java/com/liwx/algorithm/medium/SearchInRotatedSortedArray.java) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](src/main/java/com/liwx/algorithm/medium/FindFirstAndLastPositionOfElementInSortedArray.java) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](src/main/java/com/liwx/algorithm/easy/SearchInsertPosition.java) | Medium |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidSudoku.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Hard |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/easy/MaximumDepthOfBinaryTree.java) | Hard |
