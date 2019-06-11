@@ -1,6 +1,7 @@
 package com.liwx.test;
 
 import org.apache.commons.codec.binary.Base64;
+import org.apache.commons.codec.digest.DigestUtils;
 import org.bouncycastle.util.encoders.UrlBase64;
 
 import java.security.KeyFactory;
@@ -83,6 +84,7 @@ public class RSASignature {
         return null;
     }
 
+
     /**
      * 获取公钥
      *
@@ -153,6 +155,7 @@ public class RSASignature {
         String sign = signByPrivateKey(content, privateKey); //得到的签名值
         System.out.println(sign);
         System.out.println(verifySignByPublicKey(content, sign, publicKey)); //校验签名是否正确
-
+        String a = DigestUtils.md5Hex("{\"callbackUrl\":\"http://ios.cn/api/api.php?act=callback&id=19&timestamp=1560249086&sign=3b92f545e211961303e6048f8cc80639&sig=18ade67b9eee9ee10debcfa03cb73067&idfa=81BD5DC3-9DD8-41F2-B714-EF23CD21CA11_aso100\",\"idfa\":\"81BD5DC3-9DD8-41F2-B714-EF23CD21CA11\",\"partnerId\":\"123\",\"salt\":\"35aa5d1b8a984081\"}");
+        System.out.println(a);
     }
 }
