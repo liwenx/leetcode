@@ -24,8 +24,6 @@ public class CombinationSum {
         List<List<Integer>> list = new ArrayList<>();
         Arrays.sort(candidates);
         backtrack(list, new ArrayList<>(), candidates, target, 0);
-
-
         return list;
     }
 
@@ -34,6 +32,9 @@ public class CombinationSum {
         else if (remain == 0) list.add(new ArrayList<>(tempList));
         else {
             for (int i = 0; i < nums.length; i++) {
+                if (i > start && nums[i] == nums[i-1]) {
+                    continue;
+                }
                 tempList.add(nums[i]);
                 backtrack(list, tempList, nums, remain - nums[i], i);
                 tempList.remove(tempList.size() - 1);
