@@ -6,7 +6,7 @@ package com.liwx.algorithm.medium;
  * @author liwenxing
  * @date 7/15/19 6:03 PM
  */
-public class combinationSumII {
+public class CombinationSumII {
 
 
 }

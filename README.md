@@ -33,6 +33,7 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidSudoku.java) | Medium |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Java](src/main/java/com/liwx/algorithm/hard/SudokuSolver.java) | Hard |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](src/main/java/com/liwx/algorithm/medium/CombinationSum.java) | Medium |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java](src/main/java/com/liwx/algorithm/medium/CombinationSumII.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Hard |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/easy/MaximumDepthOfBinaryTree.java) | Hard |
