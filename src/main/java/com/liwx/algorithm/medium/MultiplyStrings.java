@@ -21,7 +21,7 @@ public class MultiplyStrings {
                 int mul = (num1.charAt(i) - '0') * (num2.charAt(j) - '0');
                 int sum = mul + res[i+j+1];
                 res[i+j+1] = sum % 10;
-                res[i+j] = sum / 10;
+                res[i+j] += sum / 10;
             }
         }
         StringBuilder sb = new StringBuilder();
