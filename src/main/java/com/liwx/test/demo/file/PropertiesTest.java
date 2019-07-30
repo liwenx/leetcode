@@ -1,7 +1,6 @@
-package com.liwx.demo.file;
+package com.liwx.test.demo.file;
 
 import lombok.AllArgsConstructor;
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 

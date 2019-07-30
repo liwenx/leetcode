@@ -32,8 +32,22 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](src/main/java/com/liwx/algorithm/easy/SearchInsertPosition.java) | Medium |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidSudoku.java) | Medium |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Java](src/main/java/com/liwx/algorithm/hard/SudokuSolver.java) | Hard |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](src/main/java/com/liwx/algorithm/medium/CombinationSum.java) | Medium |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java](src/main/java/com/liwx/algorithm/medium/CombinationSumII.java) | Medium |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/submissions/) | [Java](src/main/java/com/liwx/algorithm/medium/MultiplyStrings.java) | Medium |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Java](src/main/java/com/liwx/algorithm/medium/Permutations.java) | Medium |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Java](src/main/java/com/liwx/algorithm/medium/PermutationsII.java) | Medium |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](src/main/java/com/liwx/algorithm/medium/RotateImage.java) | Medium |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](src/main/java/com/liwx/algorithm/medium/GroupAnagrams.java) | Medium |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](src/main/java/com/liwx/algorithm/medium/Powxn.java) | Medium |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](src/main/java/com/liwx/algorithm/easy/MaximumSubarray.java) | Easy |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](src/main/java/com/liwx/algorithm/medium/SpiralMatrix.java) | Medium |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Java](src/main/java/com/liwx/algorithm/medium/JumpGame.java) | Medium |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](src/main/java/com/liwx/algorithm/medium/MergeIntervals.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
-| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Hard |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Medium |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/easy/SingleNumber.java) | Easy |
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/submissions/) | [Java](src/main/java/com/liwx/algorithm/medium/SingleNumberII.java) | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/easy/MaximumDepthOfBinaryTree.java) | Hard |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](src/main/java/com/liwx/algorithm/easy/ReverseLinkedList.java) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/easy/InvertBinaryTree.java) | Easy |

@@ -1,4 +1,4 @@
-package com.liwx.demo.demo1;
+package com.liwx.test.demo.demo1;
 
 /**
  * @author liwenxing
