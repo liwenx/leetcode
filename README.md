@@ -41,8 +41,9 @@
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](src/main/java/com/liwx/algorithm/medium/GroupAnagrams.java) | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](src/main/java/com/liwx/algorithm/medium/Powxn.java) | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](src/main/java/com/liwx/algorithm/easy/MaximumSubarray.java) | Easy |
-| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](src/main/java/com/liwx/algorithm/medium/SpiralMatrix.java) | Easy |
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Java](src/main/java/com/liwx/algorithm/medium/JumpGame.java) | Easy |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](src/main/java/com/liwx/algorithm/medium/SpiralMatrix.java) | Medium |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Java](src/main/java/com/liwx/algorithm/medium/JumpGame.java) | Medium |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](src/main/java/com/liwx/algorithm/medium/MergeIntervals.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/easy/SingleNumber.java) | Easy |
