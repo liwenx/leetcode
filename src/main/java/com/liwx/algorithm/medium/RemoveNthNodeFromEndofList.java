@@ -1,5 +1,7 @@
 package com.liwx.algorithm.medium;
 
+import com.liwx.algorithm.util.ListNode;
+
 /**
  * @author liwenxing
  * @date 2018/11/26 22:49
@@ -23,15 +25,6 @@ public class RemoveNthNodeFromEndofList {
         }
         slow.next = slow.next.next;
         return start.next;
-    }
-
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
     }
 
 }

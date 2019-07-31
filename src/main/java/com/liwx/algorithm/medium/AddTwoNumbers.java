@@ -1,5 +1,7 @@
 package com.liwx.algorithm.medium;
 
+import com.liwx.algorithm.util.ListNode;
+
 /**
  * @author liwenxing
  * @date 2018/7/2 22:07
@@ -7,16 +9,6 @@ package com.liwx.algorithm.medium;
  * https://leetcode.com/problems/add-two-numbers/description/
  */
 public class AddTwoNumbers {
-
-    //      Definition for singly-linked list.
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         int carry = 0;
         ListNode result = new ListNode(0);

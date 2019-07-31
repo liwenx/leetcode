@@ -1,5 +1,7 @@
 package com.liwx.algorithm.easy;
 
+import com.liwx.algorithm.util.ListNode;
+
 /**
  * liwenxing
  *
@@ -67,14 +69,5 @@ public class MergeTwoSortedLists {
             newList.next = mergeTwoLists2(l1,l2.next);
         }
         return newList;
-    }
-
-    public class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
     }
 }

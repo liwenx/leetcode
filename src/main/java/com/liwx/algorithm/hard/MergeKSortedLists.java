@@ -1,5 +1,7 @@
 package com.liwx.algorithm.hard;
 
+import com.liwx.algorithm.util.ListNode;
+
 /**
  * created by liwenxing.
  *
@@ -13,10 +15,4 @@ public class MergeKSortedLists {
 
         return res;
     }
-
-      public class ListNode {
-      int val;
-      ListNode next;
-      ListNode(int x) { val = x; }
- }
 }

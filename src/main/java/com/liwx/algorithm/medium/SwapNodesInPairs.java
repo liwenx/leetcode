@@ -1,5 +1,7 @@
 package com.liwx.algorithm.medium;
 
+import com.liwx.algorithm.util.ListNode;
+
 /**
  * @author liwenxing
  * @date 2018/12/21 11:31
@@ -49,16 +51,6 @@ public class SwapNodesInPairs {
             head = head.next;
         }
         return resNode.next;
-    }
-
-
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
     }
 
 

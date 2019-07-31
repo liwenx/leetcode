@@ -47,6 +47,7 @@
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](src/main/java/com/liwx/algorithm/easy/LengthOfLastWord.java) | Easy |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](src/main/java/com/liwx/algorithm/medium/SpiralMatrixII.java) | Medium |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Java](src/main/java/com/liwx/algorithm/medium/PermutationSequence.java) | Medium |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](src/main/java/com/liwx/algorithm/medium/RotateList.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/easy/SingleNumber.java) | Easy |
