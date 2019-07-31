@@ -50,6 +50,7 @@
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](src/main/java/com/liwx/algorithm/medium/RotateList.java) | Medium |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java](src/main/java/com/liwx/algorithm/medium/UniquePaths.java) | Medium |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Java](src/main/java/com/liwx/algorithm/medium/UniquePathsII.java) | Medium |
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](src/main/java/com/liwx/algorithm/medium/MinimumPathSum.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/easy/SingleNumber.java) | Easy |
