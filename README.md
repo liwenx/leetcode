@@ -53,6 +53,7 @@
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](src/main/java/com/liwx/algorithm/medium/MinimumPathSum.java) | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](src/main/java/com/liwx/algorithm/easy/PlusOne.java) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Java](src/main/java/com/liwx/algorithm/easy/AddBinary.java) | Easy |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](src/main/java/com/liwx/algorithm/easy/SqrtX.java) | Easy |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/easy/SingleNumber.java) | Easy |
