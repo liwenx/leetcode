@@ -65,6 +65,7 @@
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/) | [Java](src/main/java/com/liwx/algorithm/medium/SearchInRotatedSortedArrayII.java) | Medium |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](src/main/java/com/liwx/algorithm/medium/RemoveDuplicatesFromSortedListII.java) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](src/main/java/com/liwx/algorithm/medium/RemoveDuplicatesFromSortedList.java) | Medium |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](src/main/java/com/liwx/algorithm/medium/PartitionList.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/easy/SingleNumber.java) | Easy |
