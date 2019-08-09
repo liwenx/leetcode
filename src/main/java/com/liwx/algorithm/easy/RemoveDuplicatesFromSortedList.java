@@ -1,4 +1,4 @@
-package com.liwx.algorithm.medium;
+package com.liwx.algorithm.easy;
 
 import com.liwx.algorithm.util.ListNode;
 
