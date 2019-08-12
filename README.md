@@ -66,6 +66,7 @@
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](src/main/java/com/liwx/algorithm/medium/RemoveDuplicatesFromSortedListII.java) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](src/main/java/com/liwx/algorithm/easy/RemoveDuplicatesFromSortedList.java) | Easy |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](src/main/java/com/liwx/algorithm/medium/PartitionList.java) | Medium |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](src/main/java/com/liwx/algorithm/easy/MergeSortedArray.java) | Easy |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/hard/InterleavingString.java) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/medium/ValidateBinarySearchTree.java) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/easy/SingleNumber.java) | Easy |
