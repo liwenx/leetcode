@@ -1,7 +1,5 @@
 package com.liwx.algorithm.util;
 
-import com.liwx.algorithm.easy.InvertBinaryTree;
-
 /**
  * @author liwenxing
  * @date 2019/3/11 20:23
