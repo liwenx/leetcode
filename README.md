@@ -76,9 +76,9 @@
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/ValidateBinarySearchTree.java) | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/SameTree.java) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/SymmetricTree.java) | Easy |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/MaximumDepthOfBinaryTree.java) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/SingleNumber.java) | Easy |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/submissions/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/SingleNumberII.java) | Medium |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/MaximumDepthOfBinaryTree.java) | Hard |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/ReverseLinkedList.java) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/InvertBinaryTree.java) | Easy |
 
