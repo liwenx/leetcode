@@ -78,6 +78,7 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/SymmetricTree.java) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/MaximumDepthOfBinaryTree.java) | Easy |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | Medium |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/ConstructBinaryTreeFromInorderAndPostorderTraversal.java) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/SingleNumber.java) | Easy |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/submissions/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/SingleNumberII.java) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/ReverseLinkedList.java) | Easy |
