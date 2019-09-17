@@ -70,7 +70,7 @@
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/GrayCode.java) | Medium |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/SubsetsII.java) | Medium |
 | 91 | [DecodeWays](https://leetcode.com/problems/decode-ways/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/DecodeWays.java) | Medium |
-| 92 | [DecodeWReverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](src/maithreadLocaln/java/com/liwx/algorithm/leetcode/medium/ReverseLinkedListII.java) | Medium |
+| 92 | [DecodeWReverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/ReverseLinkedListII.java) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/BinaryTreeInorderTraversal.java) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/) | [Java](src/main/java/com/liwx/algorithm/leetcode/hard/InterleavingString.java) | Hard |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/ValidateBinarySearchTree.java) | Medium |
