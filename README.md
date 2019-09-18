@@ -83,6 +83,7 @@
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/ConvertSortedArrayToBinarySearchTree.java) | Easy |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/ConvertSortedListToBinarySearchTree.java) | Medium |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/BalancedBinaryTree.java) | Easy |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/MinimumDepthOfBinaryTree.java) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/SingleNumber.java) | Easy |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/submissions/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/SingleNumberII.java) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/ReverseLinkedList.java) | Easy |
