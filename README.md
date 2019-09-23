@@ -87,6 +87,7 @@
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/PathSum.java) | Easy |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/PathSumII.java) | Medium |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/FlattenBinaryTreeToLinkedList.java) | Medium |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/PopulatingNextRightPointersInEachNode.java) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/PathSumII.java) | Medium |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/submissions/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/SingleNumberII.java) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/ReverseLinkedList.java) | Easy |
