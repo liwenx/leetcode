@@ -1,6 +1,6 @@
 package com.liwx.algorithm.leetcode.medium;
 
-import com.liwx.algorithm.util.TreeeLinkNode;
+import com.liwx.algorithm.util.TreeLinkNode;
 
 /**
  * @author liwenxing
@@ -10,11 +10,11 @@ public class PopulatingNextRightPointersInEachNodeII {
     public static void main(String[] args) {
 
     }
-    public TreeeLinkNode connect(TreeeLinkNode root) {
-        TreeeLinkNode levelStart = root;
-        TreeeLinkNode current = root;
+    public TreeLinkNode connect(TreeLinkNode root) {
+        TreeLinkNode levelStart = root;
+        TreeLinkNode current = root;
         while (levelStart != null) {
-            TreeeLinkNode cur = levelStart;
+            TreeLinkNode cur = levelStart;
             while (cur != null) {
                 if (cur.left != null) {
                     cur.left.next = cur.right;
