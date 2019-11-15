@@ -90,6 +90,7 @@
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/PopulatingNextRightPointersInEachNode.java) | Medium |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/PascalsTriangle.java) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/PascalsTriangleII.java) | Easy |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/Triangle.java) | Medium |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/PathSumII.java) | Medium |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/submissions/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/SingleNumberII.java) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/ReverseLinkedList.java) | Easy |
