@@ -95,6 +95,7 @@
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/BestTimeToBuyAndSellStockII.java) | Easy |
 | 122 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Java](src/main/java/com/liwx/algorithm/leetcode/hard/BestTimeToBuyAndSellStockIII.java) | Hard |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/ValidPalindrome.java) | Easy |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](src/main/java/com/liwx/algorithm/leetcode/hard/LongestConsecutiveSequence.java) | Hard |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/PathSumII.java) | Medium |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/submissions/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/SingleNumberII.java) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/ReverseLinkedList.java) | Easy |
