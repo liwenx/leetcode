@@ -4,6 +4,7 @@
 |:---:|:---:|:---:|:---:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/TwoSum.java) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/AddTwoNumbers.java) | Medium |
+| 3 | [两数相加](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/LongestSubstringWithoutRepeatingCharacters.java) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Java](src/main/java/com/liwx/algorithm/leetcode/hard/MedianofTwoSortedArrays.java) | Hard |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Java](src/main/java/com/liwx/algorithm/leetcode/easy/ReverseInteger.java) | Easy |
 | 8 | [String to Integer (atoi)]( https://leetcode.com/problems/string-to-integer-atoi/description/) | [Java](src/main/java/com/liwx/algorithm/leetcode/medium/StringtoIntegerAtoi.java) | Medium |
