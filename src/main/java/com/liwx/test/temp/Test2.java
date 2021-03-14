@@ -18,6 +18,7 @@ public class Test2 {
         System.out.println(value);
 
         System.out.println("merge test 2");
+        System.out.println("merge test 3");
     }
 
 }
