@@ -79,7 +79,7 @@ public class LRUCache {
             //添加进hash表
             cache.put(key, newNode);
             //添加进双向链表的头部
-            addToHead(node);
+            addToHead(newNode);
             ++size;
             if (size > capacity) {
                 //如果超出容量，删除双向链表的尾部节点
