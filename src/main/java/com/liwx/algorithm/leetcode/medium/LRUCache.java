@@ -43,7 +43,6 @@ public class LRUCache {
     DLinkedNode head, tail;
 
     public LRUCache(int capacity) {
-        // TODO: 2021/3/24
         this.size = 0;
         this.capacity = capacity;
         head = new DLinkedNode();
