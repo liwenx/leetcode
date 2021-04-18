@@ -1,4 +1,4 @@
-package com.liwx.basic;
+package com.liwx.test.basic;
 
 public interface Interface2 {
     void test1(Integer a);

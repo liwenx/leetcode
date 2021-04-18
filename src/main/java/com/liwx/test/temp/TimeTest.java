@@ -1,8 +1,10 @@
 package com.liwx.test.temp;
 
+import java.awt.*;
 import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoField;
+import java.time.temporal.ChronoUnit;
 import java.util.Set;
 
 /**
@@ -26,6 +28,7 @@ public class TimeTest {
         System.out.println(Instant.now().getEpochSecond());
         System.out.println(Instant.ofEpochSecond(2, 1000000000).getEpochSecond());
         LocalDate localDate = LocalDate.parse("20181101",DateTimeFormatter.BASIC_ISO_DATE);
+        System.out.println("----------：" +  ChronoUnit.DAYS.between(LocalDate.now(), localDate));
         System.out.println(localDate);
 
         DateTimeFormatter dtf = DateTimeFormatter.ISO_DATE_TIME;
@@ -54,6 +57,7 @@ public class TimeTest {
 
         System.out.println(Period.ofDays(10).getYears());
         System.out.println("ubuntu root commit test");
+        System.out.println(Instant.ofEpochMilli(System.currentTimeMillis()).atZone(ZoneOffset.ofHours(8)).toLocalDate());
 
     }
 }
