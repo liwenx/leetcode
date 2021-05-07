@@ -19,10 +19,11 @@ public class JumpGameII {
         //跳跃次数
         int steps = 0;
         for (int i = 0; i < length - 1; i++) {
+            //这句话很关键哦
             maxPosition = Math.max(maxPosition, i + nums[i]);
             //到达上次跳跃能到达的右边界了
             if (i == end) {
-                // 目前能跳到的最远位置变成了下次起跳位置的有边界
+                // 目前能跳到的最远位置变成了下次起跳位置的右边界
                 end = maxPosition;
                 // 进入下一次跳跃
                 steps++;
