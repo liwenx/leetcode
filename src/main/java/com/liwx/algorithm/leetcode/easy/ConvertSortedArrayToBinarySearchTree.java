@@ -1,6 +1,6 @@
 package com.liwx.algorithm.leetcode.easy;
 
-import com.liwx.algorithm.util.TreeNode;
+import com.liwx.algorithm.leetcode.util.TreeNode;
 
 /**
  * 将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树。

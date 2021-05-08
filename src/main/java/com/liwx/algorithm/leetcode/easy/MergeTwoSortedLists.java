@@ -1,6 +1,6 @@
 package com.liwx.algorithm.leetcode.easy;
 
-import com.liwx.algorithm.util.ListNode;
+import com.liwx.algorithm.leetcode.util.ListNode;
 
 /**
  * liwenxing

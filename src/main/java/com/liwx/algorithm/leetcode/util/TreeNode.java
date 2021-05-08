@@ -1,4 +1,4 @@
-package com.liwx.algorithm.util;
+package com.liwx.algorithm.leetcode.util;
 
 /**
  * @author liwenxing

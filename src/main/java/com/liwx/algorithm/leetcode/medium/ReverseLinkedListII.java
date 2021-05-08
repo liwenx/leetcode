@@ -1,6 +1,6 @@
 package com.liwx.algorithm.leetcode.medium;
 
-import com.liwx.algorithm.util.ListNode;
+import com.liwx.algorithm.leetcode.util.ListNode;
 
 /**
  * https://leetcode.com/problems/reverse-linked-list-ii/

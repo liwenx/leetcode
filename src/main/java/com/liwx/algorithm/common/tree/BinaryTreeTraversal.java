@@ -1,6 +1,6 @@
 package com.liwx.algorithm.common.tree;
 
-import com.liwx.algorithm.util.TreeNode;
+import com.liwx.algorithm.leetcode.util.TreeNode;
 
 import java.util.Stack;
 

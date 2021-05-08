@@ -1,8 +1,7 @@
 package com.liwx.algorithm.leetcode.easy;
 
-import com.liwx.algorithm.util.TreeNode;
+import com.liwx.algorithm.leetcode.util.TreeNode;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 

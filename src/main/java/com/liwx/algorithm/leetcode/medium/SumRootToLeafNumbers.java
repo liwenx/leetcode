@@ -1,6 +1,6 @@
 package com.liwx.algorithm.leetcode.medium;
 
-import com.liwx.algorithm.util.TreeNode;
+import com.liwx.algorithm.leetcode.util.TreeNode;
 
 /**
  * @author liwenxing
