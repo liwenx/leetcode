@@ -23,7 +23,10 @@ public class ProducerThread {
         new Thread(test1.new Consumer()).start();
     }
 
+
+
     class Producer implements Runnable {
+
         @Override
         public void run() {
             for (int i = 0; i < 10; i++) {
@@ -35,6 +38,9 @@ public class ProducerThread {
                 synchronized (LOCK) {
                     while (count == FULL) {
                         try {
+                            /**
+                             * 使用wait(),notify()和notifyAll()需要先对调用对象加锁
+                             */
                             LOCK.wait();
                         } catch (InterruptedException e) {
                             e.printStackTrace();
@@ -42,6 +48,10 @@ public class ProducerThread {
                     }
                     count++;
                     System.out.println(Thread.currentThread().getName() + "生产者生产，目前共有" + count);
+                    /**
+                     * notify()或者notifyAll()方法调用后，等待线程依旧不会从wait（）返回，需要
+                     * notify()或者notifyAll()的线程释放锁之后，等待线程才有机会从wait()返回
+                     */
                     LOCK.notifyAll();
                 }
             }
