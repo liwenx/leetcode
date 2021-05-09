@@ -5,6 +5,8 @@ import java.util.concurrent.CountDownLatch;
 /**
  * 三个线程交替打印ABC10次，打印结束后输出"finished"
  *
+ * https://blog.csdn.net/xiaokang123456kao/article/details/77331878
+ *
  * @author liwenxing
  * @date 2021/5/9 14:06
  */
@@ -69,10 +71,13 @@ public class ThreadPrinter1 {
                         //假如多个线程都在此对象上等待，则会挑选唤醒其中一个线程。
                         self.notify();
                     }//self解锁，被唤醒的线程此时可以给self加锁了。
+                    // 此时执行完self的同步块，这时self锁才释放。
                     try {
-                        //该线程暂时释放prev的锁，等待再次获得prev的锁，
-                        // 然后执行下面的语句。此时prev还需要被唤醒
-                        prev.wait();
+                        if (count == 0) {// 如果count==0,表示这是最后一次打印操作，通过notifyAll操作释放对象锁。
+                            prev.notifyAll();
+                        } else {
+                            prev.wait(); // 立即释放 prev锁，当前线程休眠，等待唤醒
+                        }
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
