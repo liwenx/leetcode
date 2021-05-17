@@ -104,6 +104,7 @@ public class BinaryTreeTraversal {
         }
     }
 
+
     /**
      * 非递归后序遍历
      *
@@ -135,5 +136,27 @@ public class BinaryTreeTraversal {
             }
         }
     }
+
+    /**
+     * class Solution {
+     *     public List<Integer> postorderTraversal(TreeNode root) {
+     *         Deque<TreeNode> stack = new LinkedList<>();
+     *         LinkedList<Integer> ans = new LinkedList<>();
+     *         if (null == root) return ans;
+     *         stack.addFirst(root);
+     *         while(!stack.isEmpty()) {
+     *             TreeNode node = stack.removeFirst();
+     *             ans.addFirst(node.val);
+     *             if (null != node.left) {
+     *                 stack.addFirst(node.left);
+     *             }
+     *             if (null != node.right) {
+     *                 stack.addFirst(node.right);
+     *             }
+     *         }
+     *         return ans;
+     *     }
+     * }
+     */
 
 }
