@@ -32,6 +32,8 @@ public class CyclicBarrierTest {
                 System.out.println("人到齐了，开会吧......");
             }
         });
+        //不传线程进去也可以
+//        cyclicBarrier = new CyclicBarrier(5);
 
         for (int i = 0; i < 5; i ++) {
             new CyclicBarrierThread().start();
