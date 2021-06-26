@@ -28,5 +28,6 @@ public class Map2StringTest {
         }
         sb.setCharAt(sb.length() - 1, '}');
         System.out.println(sb.toString());
+        System.out.println("liwenxing mbp test");
     }
 }
